@@ -1,3 +1,4 @@
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -34,3 +35,4 @@
     <script src="./index.js"></script>
 </body>
 </html>
+```
